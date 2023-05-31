@@ -196,10 +196,10 @@ const allBricks: types.Theme = {
     {
       categoryName: 'Layout',
       bricks: [
-        Header,
+        // Header,
         HeaderMenuItem,
         HeaderMenuSubItem,
-        Footer,
+        // Footer,
         FooterColumn,
         FooterLink,
       ],
